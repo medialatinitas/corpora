@@ -1,4 +1,4 @@
 Corpora
 =======
-[ ] CQPWeb
-[ ] Textus
+- [ ] CQPWeb
+- [ ] Textus
